@@ -22,3 +22,4 @@ python **test_api.py**
 **sudo docker build -t quart-mistral-api .** \
 \
 **sudo docker run -p 5000:5000 quart-mistral-api**
+
